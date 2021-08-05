@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 毕业于 [惠州学院](https://www.hzu.edu.cn/) 软件工程专业
+- 💪 在为了成为一名优秀的前端工程师而努力着
+- 🧑‍💻 主要语言及技术栈
+  - Front-End： JavaScript/CSS/HTML & Vue.js &Node.js
+  - Back-End：  Java
+- 📫 Email: shiengluo@gmail.com
 
 ## 💬 Talking about Personal Stuffs:
 
