@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - 🧑‍💻 主要语言及技术栈
   - Front-End： JavaScript/CSS/HTML & Vue.js &Node.js
   - Back-End：  Java
-- 📫 Email: shiengluo@gmail.com
+
 
 ## 💬 Talking about Personal Stuffs:
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: shiengluo@gmail.com;
+
 
 ## ⚡ Technologies & Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
